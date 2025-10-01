@@ -190,6 +190,6 @@ Open source and ready for collaboration
 
 **🏏 Built with passion for cricket analytics | 🤖 Powered by Machine Learning**
 
-*Made with ❤️ by [Arun](https://github.com/arun-248)*
+*Made with ❤️ by [Arun Chinthalapally](https://github.com/arun-248)*
 
 </div>
